@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h2 align="left">Hi 👋! My name is Agnibrata and I'm a  passionate front end developer in crafting dynamic, user-friendly web interfaces.</h2>
+<h2 align="left">Hi 👋! My name is Agnibrata Shee</h2>
 
 * 🖥️  See my portfolio at [https://agni-portfolio.vercel.app/](https://agni-portfolio.vercel.app/)
 * ✉️  You can contact me at [agnibratashee@gmail.com](mailto:agnibratashee@gmail.com)
